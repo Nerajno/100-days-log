@@ -38,6 +38,15 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 # Code Log
 
 ## . FreeCodeCamp 
+### Day 8 Date August 15,2020 - Saturday
+
+**Project:** FreecodeCamp's Functional Programming
+
+**Progress:**
+- [ ] Read my made notes (I really need to take better notes).
+- [ ] Broke it // git log that is.
+
+## . FreeCodeCamp 
 ### Day 7 Date August 14,2020 - Friday
 
 **Project:** FreecodeCamp's Functional Programming
