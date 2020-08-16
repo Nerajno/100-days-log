@@ -25,17 +25,24 @@ This is part of Alexander Kallaway's [100DaysOfCode](https://github.com/Kallaway
 ## Goals
 
 - [x] Code for an hour daily.
-- [ ] Complete Js30.
-- [ ] Complete private project (Jeleva Re:development)
 - [ ] Complete JavaScript and Algorithms (freeCodeCamp).
+- [ ] Complete private project (Jeleva Re:development)
+- [ ] Complete Js30.
 - [ ] Complete Maximillian's course
 - [ ] Refactor Portfolio. 
 
 
-
-
-
 # Code Log
+
+## . FreeCodeCamp 
+### Day 8 Date August 16,2020 - Sunday
+
+**Project:** FreecodeCamp's Functional Programming
+
+**Progress:**
+- [ ] Made code notes while I was learning .map() (I really need to take better notes).
+- [x] Fixed it // git log that is.
+
 
 ## . FreeCodeCamp 
 ### Day 8 Date August 15,2020 - Saturday
